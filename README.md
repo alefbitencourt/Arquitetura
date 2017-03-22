@@ -1,2 +1,2 @@
 # Arquitetura de Software
-Repositório para a disciplina de Arquitetura
+Repositório para a disciplina de Arquitetura de Software
