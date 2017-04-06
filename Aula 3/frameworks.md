@@ -8,7 +8,7 @@ Fonte: https://marcobaccaro.wordpress.com/2010/10/05/arquitetura-baseada-em-comp
 
 2. Message Bus
 
-a. Gratuitos: JBoss ESB/Fuse
+a. Gratuitos: JBoss ESB/Fuse <p>
 b. Comerciais: OSB
 
 Fontes:
@@ -18,5 +18,5 @@ http://www.guj.com.br/t/tipos-de-esb/141821
 
 3. Service-Oriented Arquitecture (SOA)
 
-a.Gratuitos:
+a.Gratuitos:   <p>
 b.Comerciais: IBM WebSphere
