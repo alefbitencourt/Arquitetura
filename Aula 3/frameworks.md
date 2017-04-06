@@ -12,7 +12,7 @@ a. Gratuitos: JBoss ESB/Fuse <p>
 b. Comerciais: OSB
 
 Fontes:
-https://marcobaccaro.wordpress.com/2010/10/19/arquitetura-message-bus/
+https://marcobaccaro.wordpress.com/2010/10/19/arquitetura-message-bus/ <p>
 http://www.guj.com.br/t/tipos-de-esb/141821
 
 
