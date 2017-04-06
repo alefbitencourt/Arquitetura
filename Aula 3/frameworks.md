@@ -1,6 +1,6 @@
 1. Arquitetura baseada em componentes
 
-a. Gratuitos: EJB
+a. Gratuitos: EJB <p>
 b. Comerciais: DCOM, CORBA
 
 Fonte: https://marcobaccaro.wordpress.com/2010/10/05/arquitetura-baseada-em-componentes/
