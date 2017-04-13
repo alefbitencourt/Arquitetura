@@ -1,4 +1,5 @@
-<p><b>Exercício 8</b></p> <br>
+<b>Exercício 8</b>
+<br>
 <br>
 Casos de uso - Feito <br>
 Descrição dos cenários – Em Andamento 40% <br>
